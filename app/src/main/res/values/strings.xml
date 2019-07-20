@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegisterApp</string>
+
+    <string name="hint_word">Search register...</string>
+
+    <string name="default_message">List is Empty</string>
+
+    <string name="no_results_message">No results available</string>
+</resources>
